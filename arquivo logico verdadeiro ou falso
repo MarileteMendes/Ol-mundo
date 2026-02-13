@@ -1,0 +1,15 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		logico teste1, teste2, operacao_e, operacao_ou, operacao_nao, insanidade
+		teste1 = verdadeiro
+		teste2 = falso
+		operacao_e = teste1 e teste2
+		operacao_ou = teste1 ou teste2
+		operacao_nao = nao operacao_e
+		insanidade = operacao_ou e nao operacao_nao
+		escreva(insanidade)
+	}
+}
