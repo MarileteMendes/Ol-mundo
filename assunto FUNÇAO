@@ -1,0 +1,8 @@
+numero1 = 10
+numero2 = 15
+soma = 10+15
+subtracão = 10-15
+divisão = 10/15
+multiplicação = 10*15
+exponenciação = 10**15
+print (soma, subtracão, divisão, multiplicação, exponenciação)
